@@ -4,8 +4,6 @@
 
 A robust backend service that integrates with the 100ms API to manage live video calls. This service provides REST APIs for room management and WebSocket functionality for real-time participant tracking.
 
-## 🚀 Live Demo
-- API Endpoint: [[https://mobishaala-9x9v.onrender.com](https://mobishaala-9x9v.onrender.com)]
 
 ## 🛠️ Tech Stack
 - Node.js
@@ -235,8 +233,6 @@ The API includes comprehensive error handling:
 - WebSocket connection errors
 
 
-## 👥 Authors
-- T. Chinna Siva Krishna - [GitHub Profile](https://github.com/chinnasivakrishna)
 
 ## 🙏 Acknowledgments
 - [100ms Documentation](https://www.100ms.live/docs)
